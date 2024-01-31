@@ -1,0 +1,30 @@
+.age{
+    width: 100px;
+}
+body{
+    background-color: gainsboro;
+}
+ .calcule{
+    background-color: white;
+    width: 400px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px 10px 100px 10px;
+
+} 
+hr{
+    width: 300px;
+}
+.valid{
+    background-color: blueviolet;
+    border-radius: 50%;
+}
+.span{
+    color: blueviolet;
+}
+.bi-usb-symbol{
+    color: white;
+}
+::placeholder{
+    font-weight: bold;
+}
